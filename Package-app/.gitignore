@@ -1,10 +1,10 @@
-# Python-generated files
+# Ignore Python virtual environments
+.venv/
+
+# Ignore Python cache
 __pycache__/
-*.py[oc]
+*.pyc
+
+# Ignore build/dist
 build/
 dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
