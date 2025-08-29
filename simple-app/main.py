@@ -3,7 +3,7 @@ print("Mujahid Iqbal")
 print("PIAIC PIAIC62907\n")
 
 a = input("Enter first number: ")
-b = input("Enter second number: \n")
+b = input("Enter second number: ")
 a = int(a)
 b = int(b)
 print("sum of a  and b  " , a +  b)
